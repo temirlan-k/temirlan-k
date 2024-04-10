@@ -1,16 +1,17 @@
-### Hi there 👋
+# My GitHub Profile
 
-<!--
-**temirlan-k/temirlan-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub profile! I'm a Python Backend Developer. Here you'll find my projects and code snippets related to backend development.
 
-Here are some ideas to get you started:
+## About Me
+Passionate about Python and backend development, I love tackling challenges and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- **Projects**: Collection of Python backend projects.
+- **Code Snippets**: Handy Python code snippets and utilities.
+
+## Contact
+- **Email**: temirlan.kazhigerey@gmail.com
+- **Telegram**:[https://t.me/qwqwwwqwqw](https://t.me/qwqwwwqwqw)
+
+## Thank You
+Thanks for visiting my profile!
