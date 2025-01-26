@@ -1,9 +1,9 @@
 # My GitHub Profile
 
-👋 Welcome to my GitHub profile! I'm a Python Backend Developer. Here you'll find my projects and code snippets related to backend development.
+👋 Welcome to my GitHub profile! I'm a Backend Developer. Here you'll find my projects and code snippets related to backend development.
 
 ## About Me
-Passionate about Python and backend development, I love tackling challenges and learning new technologies.
+Passionate about Python and backend development.
 
 ## What You'll Find Here
 - **Projects**: Collection of Python backend projects.
