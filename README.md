@@ -1,17 +1,7 @@
-# My GitHub Profile
+# Hi, I'm [Temirlan] 👋
 
-👋 Welcome to my GitHub profile! I'm a Backend Developer. Here you'll find my projects and code snippets related to backend development.
+I'm a passionate Software Engineer, currently focused on building innovative web applications with modern technologies like Python, TypeScript, PostgreSQL, Docker, and MongoDB.
 
-## About Me
-Passionate about Python and backend development.
+🚀 I’m always looking to improve my skills and contribute to exciting projects.
 
-## What You'll Find Here
-- **Projects**: Collection of Python backend projects.
-- **Code Snippets**: Handy Python code snippets and utilities.
-
-## Contact
-- **Email**: temirlan.kazhigerey@gmail.com
-- **Telegram**:[https://t.me/qwqwwwqwqw](https://t.me/qwqwwwqwqw)
-
-## Thank You
-Thanks for visiting my profile!
+📫 How to reach me: [https://t.me/qwqwwwqwqw](https://t.me/qwqwwwqwqw)
